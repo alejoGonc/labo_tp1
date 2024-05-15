@@ -10,4 +10,12 @@
 - Si el paso anterior salió bien, falta instalar todas las librerias necesarias con: pip install -r requirements.txt
 
 ## Subiendo tus cambios:
-- Cada vez que quieras
+- Antes de empezar, debemos crear un branch de desarrollo para no pisar el main branch (y borrar todo lo que hicieron los otros), esto se hace con: git checkout -b nombre-branch
+    - En mi caso: git checkout -b desarrollo-alejo
+- Luego de modificar y trabajar los archivos, debemos hacer stage de los cambios: git add nombre-archivo.ext
+    - Por ej: git add main.ipynb
+    - Con 'git status' podemos ver todos los archivos en stage que falta hacer commmit
+- Ahora hacemos el commit y agregamos un mensaje: git commit -m 'grafico distribución de pasajeros agregada'
+- Mandamos los cambios al repositorio con: git push origin nombre-branch
+    - Por ej: git push origin desarrollo-alejo
+- Ahora debemos ir al repositorio en github y crear un pull request desde la pestaña de pull request :) 
