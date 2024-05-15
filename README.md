@@ -19,3 +19,7 @@
 - Mandamos los cambios al repositorio con: git push origin nombre-branch
     - Por ej: git push origin desarrollo-alejo
 - Ahora debemos ir al repositorio en github y crear un pull request desde la pestaña de pull request :) 
+    - En la pestaña buscamos el boton verde que dice 'New pull request'
+    - Dejamos como base el branch main y ponemos en compare nuestro branch de desarrollo. Aca le estamos diciendo a github que nos gustaria meter nuestros cambios de desarollo en la main branch
+    - Nos va a mostrar todos los cambios que hiicimos en los distintos archivos
+    - Podemos agregar alguna descripcion o comentario respecto a los cambios, y creamos el pull request
