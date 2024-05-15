@@ -8,4 +8,4 @@
 - Se te va a crear una carpeta que se llama labo_tp1 con los archivos que estan en el repositorio
 
 ## Subiendo tus cambios:
-- Cada vez
+- Cada vez que quieras
