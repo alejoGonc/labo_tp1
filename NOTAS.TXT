@@ -1,0 +1,3 @@
+- HAY REGISTROS DONDE PASAJEROS ES NEGATIVO
+- HAY REGISTRO DONDE LA PROVINCIA ES NaN (son los datos de subte + algunos colectivos)
+- 
