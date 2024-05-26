@@ -1,0 +1,7 @@
+- INVESTIGAR Regresion Ridge (ver si esta bien lo que estamos haciendo) - Todes
+- Buscar una linea que haga recorrido parecido para regresion lineal univariada - Male
+- Cambiar dataset para regresion lineal multivariada (la de los de varianza parecida) - Alejo
+- Cambiar nombres de las variables de los modelos y acomodarlos y ponerlos lindos blabla  - Alejo
+- Terminar los graficos (conclusiones, etc) - Todos
+- Investigar que es 'ESCRIBIR LA FORMULA DEL MODELO' (le pregunto a nacho)
+- Pensar conclusiones - Fati
